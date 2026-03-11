@@ -164,7 +164,7 @@ function Home() {
             <Shortcut href="#"><Map size={24}/>지도</Shortcut>
             <Shortcut href="#"><BarChart2 size={24}/>무기 통계</Shortcut>
             <Shortcut href="#"><Trophy size={24}/>리더보드</Shortcut>
-            <Shortcut href="#"><Users size={24}/>팀 찾기</Shortcut>
+            <Shortcut href="/posts"><Users size={24}/>팀 찾기</Shortcut>
           </ShortcutList>
         </MainContent>
       </HomeWrapper>
