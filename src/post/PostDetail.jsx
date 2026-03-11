@@ -44,7 +44,7 @@ export default function PostDetail() {
 
       <button
         style={{ marginTop: "24px" }}
-        onClick={() => navigate("/")}
+        onClick={() => navigate("/posts")}
       >
         목록으로
       </button>
